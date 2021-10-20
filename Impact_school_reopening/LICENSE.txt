@@ -1,9 +1,9 @@
 Copyright (c) 2020, EPIcx lab
 
 Related scientific article:
-Can we safely reopen schools during COVID-19 epidemic?
-Laura Di Domenico, Giulia Pullano, Chiara E. Sabbatini, Pierre-Yves Boëlle, Vittoria Colizza
-medRxiv 2020.05.08.20095521; doi: https://doi.org/10.1101/2020.05.08.20095521
+Modelling safe protocols for reopening schools during the COVID-19 pandemic in France. Nat Commun 12, 1073 (2021)
+Laura Di Domenico, Giulia Pullano, Chiara E. Sabbatini, Pierre-Yves Boëlle & Vittoria Colizza
+https://doi.org/10.1038/s41467-021-21249-6
 
 All rights reserved.
 
