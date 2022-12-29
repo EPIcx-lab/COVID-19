@@ -17,4 +17,4 @@ scenario = 3 implements the Winter 2022 Belgian protocol\
 scenario = 4 implements the Spring 2022 Belgian protocol\
 scenario = 5 implements the Winter 2022 Italian protocol\
 scenario = 6 implements the Spring 2022 Italian protocol\
-scenario = 7 implements the Fall 2022 Italian protocol\
+scenario = 7 implements the Fall 2022 Italian protocol
