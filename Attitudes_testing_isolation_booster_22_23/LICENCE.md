@@ -1,8 +1,8 @@
-Copyright (c) 2021, EPIcx lab
+Copyright (c) 2022, EPIcx lab
 
 Related scientific article:
 
-Attitudes towards booster, testing and isolation, and impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy
+Attitudes towards booster, testing and isolation, and impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy.
 Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza
 
 All rights reserved.
