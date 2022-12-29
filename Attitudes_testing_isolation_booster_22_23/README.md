@@ -1,13 +1,15 @@
 Data and code belong to the authors of the following paper
 
-Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy
+Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy.
 Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza
 
 If you use this material, please cite the above reference.
 
+All scripts available in this section (folder entitled "Attitudes_testing_isolation_booster_22_23") are modifications of the scripts of Joel Hellewell available at https://github.com/epiforecasts/ringbp.
+
 Usage:
 
-To run the branching process and obtain results on the effective reproduction number generated under the protocol choice “scenario” and the epidemic context defined by a set of other parameters, run the script generate_results.R after tuning the parameters as desired. 
+To run the branching process and obtain results on the effective reproduction number generated under the protocol choice “scenario” and the epidemic context defined by a set of other parameters, run the script "generate_results.R" after tuning the parameters as desired. 
 
 The variable scenario takes integer values from 0 to 7 and each value denotes one protocol implemented in the above-mentioned paper. 
 scenario = 0 denotes the scenario in absence of interventions\
