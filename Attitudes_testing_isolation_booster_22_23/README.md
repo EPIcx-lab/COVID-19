@@ -1,4 +1,4 @@
-Data and code belong to the authors of the following paper
+The code belongs to the authors of the following paper
 
 Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy.
 Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza
