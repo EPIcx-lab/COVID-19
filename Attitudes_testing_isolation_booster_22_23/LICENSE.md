@@ -1,6 +1,6 @@
 Copyright (c) 2022, EPIcx lab
 
-Related scientific article: G. de Meijere et al. Attitudes towards booster, testing and isolation, and impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study. 
+Related scientific article: G. de Meijere et al. Attitudes towards booster, testing and isolation, and impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study, The Lancet Regional Health - Europe. 
 Available at: https://www.sciencedirect.com/science/article/pii/S2666776223000327
 
 This code is a modification of the scripts of Joel Hellewell available at https://github.com/epiforecasts/ringbp.
