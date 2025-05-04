@@ -17,7 +17,8 @@ This repository includes:
 
 
 
-1. C Code: Transmission Model (Omicron)
+
+C Code: Transmission Model (Omicron)
 
 Description
 The C code simulates SARS-CoV-2 transmission if reactive screening protocols were applied in the schools following the experimental screening during the Omicron wave, assuming the same underlying transmissibility conditions.
@@ -25,7 +26,8 @@ The C code simulates SARS-CoV-2 transmission if reactive screening protocols wer
 
 Or use the helper script to compile and run the code: python launcher.py
 
-2. Python Notebooks: Analysis and Plots
+
+Python Notebooks: Analysis and Plots
 
 Description
 Outputs from simulations are stored in the data_out/ directory. Use the provided Jupyter notebooks for analyses on avereted school transmission and visualization. 
