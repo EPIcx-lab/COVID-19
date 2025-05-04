@@ -18,7 +18,7 @@ This repository includes:
 
 
 
-1. C Code: Transmission Model (Omicron)
+C Code: Transmission Model (Omicron)
 
 Description
 The C code models school transmission under the screening protocol implemented in selected French primary schools of the Auvergne-Rhône-Alpes region during the Omicron wave.
@@ -31,7 +31,8 @@ Use the following command to run the model from your own terminal:
 
 Or use the helper script: python launcher.py
 
-2. Python Notebooks: Analysis and Plots
+
+Python Notebooks: Analysis and Plots
 
 Description
 Outputs from simulations are stored in the data_out/ directory. Use the provided Jupyter notebooks for post-processing and visualization. Each notebook includes a list of required packages at the top.
